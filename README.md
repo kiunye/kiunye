@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on *WordPress(ACF)* , *Ruby on Rails* & *Elixir(Phoenix)* projects <br>🌱 I’m currently taking my coaching badges in Rugby <br>💬 Ask me about *Rugby*, *Football Manager* ( PC game ), *ACF* & *Rails or Elixir* projects <br>⚡ Fun fact I used to play rugby as a *Hooker* now that it's been a while I'm looking to get into coaching or analyst 
+🔭 I’m currently working on **WordPress(ACF)** , **Ruby on Rails** & **Elixir(Phoenix)** projects <br>🌱 I’m currently taking my coaching badges in Rugby <br>💬 Ask me about **Rugby**, **Football Manager** ( PC game ), **ACF** & **Rails or Elixir** projects <br>⚡ Fun fact I used to play rugby as a **Hooker** now that it's been a while I'm looking to get into coaching or analyst 
 
 
 ## 🌐 Socials:
