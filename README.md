@@ -1,17 +1,113 @@
-# 💫 About Me:
-🔭 I’m currently working on **WordPress(ACF)** , **Ruby on Rails** & **Elixir(Phoenix)** projects <br>🌱 I’m currently taking my coaching badges in Rugby <br>💬 Ask me about **Rugby**, **Football Manager** ( PC game ), **WooCommerce** & **Rails or Elixir** projects <br>⚡ Fun fact I used to play rugby as a **Hooker** now that it's been a while I'm looking to get into coaching or analyst 
+# 💫 Kiunye Araya Christopher :
+**WooCommerce & Shopify Expert • Rugby Tactics Nerd • Problem Solver**
 
+I’m currently building with WordPress, Ruby on Rails, and Elixir (Phoenix)—engineering clean, scalable solutions across multiple stacks. Away from the keyboard, I’m working toward my rugby coaching badges, drawing from my playing days as a hooker. These days, I'm especially interested in attack strategy and tactical analysis. Always happy to chat about rugby, Football Manager (PC), or anything to do with WooCommerce, Rails, or Elixir.
+
+---
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kiunye_) 
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=flat&logo=drupal&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+---
+
+## 💼 Currently Building
+
+**@ Greenspoon (Software Engineer – WooCommerce & Internal Tooling)**  
+- **WooCommerce HPOS Upgrades**: Modernizing plugins and order logic to support High-Performance Order Storage  
+- **Custom Order Workflows**: Tailoring fulfillment flows for perishable goods and real-time order updates  
+- **Plugin Refactoring**: Updating legacy WooCommerce codebases to align with current WordPress standards  
+- **CI/CD for WP Projects**: Supporting GitHub Actions pipelines for automated testing and deployments  
+- **Internal Dev Tools**: Contributing to dashboards, helper scripts, and debugging tools for the engineering team  
+- **Performance Optimization**: Profiling and optimizing slow queries, API endpoints, and plugin performance  
+
+---
+
+## 🛠 Recent Projects & Impact
+
+| **Project** | **Tech Stack** | **Impact** |
+|-------------|----------------|------------|
+| **[ACF PHP → JSON Converter](https://github.com/kiunye/acf-php-json-converter)** | PHP, ACF, WP-CLI | Enables seamless migration of ACF fields from PHP to JSON for better version control |
+| **[WC ACF Coupon Fields](https://github.com/kiunye/wc-acf-coupon-fields)** | WooCommerce, ACF, PHP | Adds flexible ACF-powered meta fields to WooCommerce coupons |
+| **[Amazin](https://github.com/kiunye/amazin)** | PHP, JSON | Speeds up API dev by generating type-safe PHP classes from JSON payloads |
+| **[Jijenge Credit Website](https://www.jijengecredit.com/)** | WordPress, Elementor, Custom CSS | Redesigned UI boosted customer engagement and improved conversion flow |
+
+---
+
+# 🔧  Tech Arsenal:
+
+```yaml
+WordPress & E-commerce:
+  - WordPress Core, WooCommerce, ACF
+  - Gutenberg, CPT UI, WP REST API
+  - Plugin & Theme Development
+  - HPOS (High-Performance Order Storage)
+  - Woo Subscriptions, MPESA Integration
+
+Backend Development:
+  - PHP, Ruby, Elixir, JavaScript
+  - Laravel, Rails, Phoenix
+  - REST APIs, GraphQL
+
+Frontend & UI:
+  - TailwindCSS, Alpine.js, StimulusJS
+  - Hotwire, Turbo, ERB
+  - HTML5, SCSS, JavaScript (Vanilla & jQuery)
+
+Dev Tools & Internal Ops:
+  - GitHub Actions, WP-CLI
+  - Debug Bar, Query Monitor
+  - CI/CD for WordPress Projects
+
+Automation & Support:
+  - Zendesk, HelpScout (Support Platforms)
+  - Internal Tooling, ACF-powered Workflows
+  - JSON ↔ PHP converters for field migration
+
+Databases & Storage:
+  - MySQL, PostgreSQL
+  - Redis (basic use), Supabase (exploring)
+
+Productivity & Business:
+  - Football Manager (Tactical Thinking 😉)
+  - POS & Inventory Systems
+  - Client Communication, Dev Documentation
+```
+
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kiunye&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kiunye&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiunye&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+  
+![Chris` GitHub stats](https://github-readme-stats.vercel.app/api?username=kiunye&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiunye&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🎶 Currently Playing
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mbip3fbsapogouddvowjdla76y&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=09f401)](https://github.com/kittinan/spotify-github-profile)
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing:
+- Tech ecosystem
+- Tactical side of Soccer & Rugby
+- Football Manager
+  
+
+**Find me at:**
+- 💼 [LinkedIn](https://linkedin.com/in/chris-mucheke)
+- 🐦 [Twitter](https://twitter.com/kiunye_) 
+- 📧 [Email](mailto:kchrismucheke@gmail.com)
 
