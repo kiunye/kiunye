@@ -98,6 +98,12 @@ Productivity & Business:
 
 ---
 
+## 📊 Contribution Graph
+
+![Chris' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kiunye&theme=react-dark&hide_border=true)
+
+---
+
 ## 🤝 Let's Connect
 
 I'm always interested in discussing:
