@@ -26,10 +26,10 @@ I’m currently building with WordPress, Ruby on Rails, and Elixir (Phoenix)—e
 
 | **Project** | **Tech Stack** | **Impact** |
 |-------------|----------------|------------|
-| **[ACF PHP → JSON Converter](https://github.com/kiunye/acf-php-json-converter)** | PHP, ACF, WP-CLI | Enables seamless migration of ACF fields from PHP to JSON for better version control |
-| **[WC ACF Coupon Fields](https://github.com/kiunye/wc-acf-coupon-fields)** | WooCommerce, ACF, PHP | Adds flexible ACF-powered meta fields to WooCommerce coupons |
-| **[Amazin](https://github.com/kiunye/amazin)** | PHP, JSON | Speeds up API dev by generating type-safe PHP classes from JSON payloads |
-| **[Jijenge Credit Website](https://www.jijengecredit.com/)** | WordPress, Elementor, Custom CSS | Redesigned UI boosted customer engagement and improved conversion flow |
+| **[ACF PHP → JSON Converter](https://github.com/kiunye/acf-php-json-converter)** | PHP, ACF, WP-CLI | Enables seamless migration of ACF fields from PHP to JSON for better version control and portability |
+| **[WC ACF Coupon Fields](https://github.com/kiunye/wc-acf-coupon-fields)** | WooCommerce, ACF, PHP | Adds customizable ACF meta fields to WooCommerce coupons, enabling richer promotional logic |
+| **[Amazin](https://github.com/kiunye/amazin)** | Elixir, Phoenix, LiveView | A real-time e-commerce POC showcasing LiveView's responsiveness and Phoenix's performance for scalable storefronts |
+| **[Jijenge Credit Website](https://www.jijengecredit.com/)** | WordPress, Elementor, Custom CSS | Redesign improved customer engagement and usability, leading to better digital lead conversion |
 
 ---
 
