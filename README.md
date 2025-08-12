@@ -1,7 +1,7 @@
 # 💫 Kiunye Araya Christopher :
 **WooCommerce & Shopify Expert • Rugby Tactics Nerd • Problem Solver**
 
-I’m currently building with WordPress, Ruby on Rails, and Elixir (Phoenix)—engineering clean, scalable solutions across multiple stacks. Away from the keyboard, I’m working toward my rugby coaching badges, drawing from my playing days as a hooker. These days, I'm especially interested in attack strategy and tactical analysis. Always happy to chat about rugby, Football Manager (PC), or anything to do with WooCommerce, Rails, or Elixir.
+I’m currently building with WordPress, Ruby on Rails, and Elixir (Phoenix), engineering clean, scalable solutions across multiple stacks. Away from the keyboard, I’m working toward my rugby coaching badges, drawing from my playing days as a hooker. These days, I'm especially interested in attack strategy and tactical analysis. Always happy to chat about rugby, Football Manager (PC), or anything to do with WooCommerce, Rails, or Elixir.
 
 ---
 
@@ -27,6 +27,7 @@ I’m currently building with WordPress, Ruby on Rails, and Elixir (Phoenix)—e
 | **Project** | **Tech Stack** | **Impact** |
 |-------------|----------------|------------|
 | **[ACF PHP → JSON Converter](https://github.com/kiunye/acf-php-json-converter)** | PHP, ACF, WP-CLI | Enables seamless migration of ACF fields from PHP to JSON for better version control and portability |
+| **[Ridex](https://github.com/kiunye/ridex)** | Elixir, Phoenix, LiveView, Phoenix Presence | Ridex is a simple prototype for a ride-sharing application with Elixir and the Phoenix framework, using some of its real-time communication features like Channels and Presence.  |
 | **[WC ACF Coupon Fields](https://github.com/kiunye/wc-acf-coupon-fields)** | WooCommerce, ACF, PHP | Adds customizable ACF meta fields to WooCommerce coupons, enabling richer promotional logic |
 | **[Amazin](https://github.com/kiunye/amazin)** | Elixir, Phoenix, LiveView | A real-time e-commerce POC showcasing LiveView's responsiveness and Phoenix's performance for scalable storefronts |
 | **[Jijenge Credit Website](https://www.jijengecredit.com/)** | WordPress, Elementor, Custom CSS | Redesign improved customer engagement and usability, leading to better digital lead conversion |
