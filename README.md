@@ -89,9 +89,10 @@
 | [**Prism**](https://github.com/kiunye/Prism) | Embedded BI platform for Rails apps. Real-time analytics built directly into your product, no external BI tools needed. | Ruby, Rails |
 | [**Afya Fit**](https://github.com/kiunye/afya_fit) | Fitness platform connecting trainers with clients. Covers workout plans, nutrition tracking, progress monitoring, and subscription billing. | Elixir, Phoenix |
 | [**Araya Engine**](https://github.com/kiunye/araya_engine) | Production-grade multimodal agentic research engine. Ingests PDFs, audio, screenshots, and web pages, then orchestrates AI agents to synthesise findings. | Python |
-| [**ACF PHP to JSON Converter**](https://github.com/kiunye/acf-php-json-converter) | WordPress plugin scanning theme files for ACF field groups defined in PHP and converting them to JSON for easy import and export. | PHP |
+| [**Field Group PHP-JSON Converter**](https://github.com/kiunye/field-group-php-json-converter) | WordPress plugin scanning theme files for ACF field groups defined in PHP and converting them to JSON for easy import and export. | PHP |
 | [**amazin**](https://github.com/kiunye/amazin) | eCommerce proof of concept with full Stripe integration, built entirely on Phoenix LiveView. | Elixir, Phoenix |
 | [**WooCommerce Discount Analytics**](https://github.com/kiunye/woo-discount-analytics) | Sale price visibility, reporting, and Dynamics 365 general ledger sync for WooCommerce stores. | PHP |
+| [**TikTok Pixel Events API**](https://github.com/kiunye/tiktok-pixel-events-api) | Enterprise-grade dual-tracking for WooCommerce: browser-side TikTok Pixel + server-side Events API (v1.3) with SHA-256 PII hashing, deduplication, ttclid capture, failed-event retry queue, and connection testing. | PHP |
 
 ---
 
