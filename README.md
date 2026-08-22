@@ -5,7 +5,7 @@
 # Chris Mucheke
 
 <div align="justify">
-I’m a backend and platform engineer with over 10 years of experience designing and building scalable software systems using Elixir, Phoenix, PostgreSQL, and modern cloud tooling. My work spans fintech, e-commerce, data synchronization, and enterprise platforms, with a strong focus on performance, reliability, automation, and maintainable architecture. I’ve led projects ranging from high-concurrency middleware and CI/CD pipelines to WooCommerce optimization and API integrations, and I enjoy turning complex technical challenges into clean, dependable solutions.
+I’m a backend and platform engineer with over 10 years of experience designing and building scalable software systems using Elixir, Phoenix, Ruby on Rails, Solidity, PostgreSQL, and modern cloud tooling. My work spans fintech, e-commerce, Web3, data synchronization, and enterprise platforms, with a strong focus on performance, reliability, automation, and maintainable architecture. I’ve led projects ranging from high-concurrency middleware and CI/CD pipelines to WooCommerce optimization and API integrations, and I enjoy turning complex technical challenges into clean, dependable solutions.
 </div>
   <br><br>
 Open to backend and fullstack roles( Onsite, Remote or Hybrid ).
@@ -41,6 +41,7 @@ Keyed debounce and throttle primitives built on top of OTP. Ships with idempoten
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=phoenixframework&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=lightbrown)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
