@@ -62,4 +62,5 @@ Keyed debounce and throttle primitives built on top of OTP. Ships with idempoten
 <img src="https://github-stats-extended.vercel.app/api?username=kiunye&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiunye&hide_border=true&theme=default" alt="GitHub streak" height="165" />
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mbip3fbsapogouddvowjdla76y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31mbip3fbsapogouddvowjdla76y&redirect=true)
 </div>
